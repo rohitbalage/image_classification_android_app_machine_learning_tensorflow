@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
     var resultTv: TextView? = null
     private var image_uri: Uri? = null
 
+    var classifier : Classifier? =null
     @RequiresApi(Build.VERSION_CODES.M)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -60,7 +61,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         //TODO initialize the Classifier class object. This class will load the model and using its method we will pass input to the model and get the output
-
+        classifier = Classifier(assets, "mobilenet_v1_1.0_224.tflite", "mobilenet_v1_1.0_224.txt", 224)
 
         //TODO ask for permission of camera upon first launch of application
         if (checkSelfPermission(Manifest.permission.CAMERA) == PackageManager.PERMISSION_DENIED ||
@@ -99,7 +100,14 @@ class MainActivity : AppCompatActivity() {
 
     //TODO pass image to the model and shows the results on screen
     fun doInference() {
-
+    var bitmap : Bitmap? = uriToBitmap(image_uri!!)
+        var rotated:Bitmap? = rotateBitmap(bitmap!!)
+     var results =   classifier?.recognizeImage(rotated!!)
+        resultTv?.text = ""
+        for(r in results!!)
+        {
+            resultTv?.append(r.title + "    "+r.confidence+ "\n" )
+        }
     }
 
     //TODO takes URI of the image and returns bitmap
