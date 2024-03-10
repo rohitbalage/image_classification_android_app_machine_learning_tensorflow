@@ -1,0 +1,4 @@
+#Sun Mar 10 12:34:23 EDT 2024
+base.0=D\:\\Machine Learning\\Android based apps\\Image classification Kotlin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
