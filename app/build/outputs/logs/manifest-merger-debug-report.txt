@@ -1,13 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Admin\.gradle\caches\transforms-3\079a2559e00f37748e0add3087c2ddb8\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Admin\.gradle\caches\transforms-3\204ffc7fb0dfee88b88a9c080b598594\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\1e7e23bc22794f2318f79dd5709b47b8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\686cc134bc124aca672c32b4ff59010a\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\b7bb0f83203e6df8a786e45843286cb3\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\2dc1cfbaa65ab1dfbe099ba03797b32c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\aac53715adbececaf085ebe203e8b110\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\2e08045cdcf95fd9364dded299a05dea\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -33,69 +34,82 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-3\c4a7a1d569d371b724c049400e3e4c32\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-3\4a9d3054f6edd2bc5ff4341967a55d9f\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e5f6b59cd59f8abcf33abeecdc6066c3\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\028ea34d04f63df3210408ecca53449d\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:3:5-52
 		INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:6:9-47
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:5:5-80
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.CAMERA
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:6:5-64
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:10:5-64
 	android:name
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:10:22-62
 application
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:7:5-21:19
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:11:5-26:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Admin\.gradle\caches\transforms-3\204ffc7fb0dfee88b88a9c080b598594\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Admin\.gradle\caches\transforms-3\204ffc7fb0dfee88b88a9c080b598594\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\1e7e23bc22794f2318f79dd5709b47b8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\1e7e23bc22794f2318f79dd5709b47b8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\b7bb0f83203e6df8a786e45843286cb3\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\b7bb0f83203e6df8a786e45843286cb3\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.3.2] C:\Users\Admin\.gradle\caches\transforms-3\5f9092c53fcc354b21ae47d98d9c1e07\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.2] C:\Users\Admin\.gradle\caches\transforms-3\5f9092c53fcc354b21ae47d98d9c1e07\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\b8cdcde9e72bdf56ea8f563c1abcd567\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\b8cdcde9e72bdf56ea8f563c1abcd567\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\028ea34d04f63df3210408ecca53449d\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\028ea34d04f63df3210408ecca53449d\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\Admin\.gradle\caches\transforms-3\5f9092c53fcc354b21ae47d98d9c1e07\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:13:9-63
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:17:9-63
 activity#com.example.imageclassificationkotlin.MainActivity
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:exported
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
@@ -108,6 +122,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.g
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Admin\.gradle\caches\transforms-3\1e7e23bc22794f2318f79dd5709b47b8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\686cc134bc124aca672c32b4ff59010a\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\686cc134bc124aca672c32b4ff59010a\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\b7bb0f83203e6df8a786e45843286cb3\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\b7bb0f83203e6df8a786e45843286cb3\transformed\jetified-tensorflow-lite-2.15.0\AndroidManifest.xml:6:5-7:38
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\2dc1cfbaa65ab1dfbe099ba03797b32c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\2dc1cfbaa65ab1dfbe099ba03797b32c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-3\aac53715adbececaf085ebe203e8b110\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -158,6 +174,8 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-3\4a9d3054f6edd2bc5ff4341967a55d9f\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e5f6b59cd59f8abcf33abeecdc6066c3\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Admin\.gradle\caches\transforms-3\e5f6b59cd59f8abcf33abeecdc6066c3\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\028ea34d04f63df3210408ecca53449d\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:2.15.0] C:\Users\Admin\.gradle\caches\transforms-3\028ea34d04f63df3210408ecca53449d\transformed\jetified-tensorflow-lite-api-2.15.0\AndroidManifest.xml:6:5-7:38
 INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
 INJECTED from D:\Machine Learning\Android based apps\Image classification Kotlin\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
